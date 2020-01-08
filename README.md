@@ -1,4 +1,4 @@
-# loopless_hundred
+# Loopless Hundred
 That's how I can  print 1 to 100 in C++ without a loop, goto or recursion
 
 A long time ago, I saw a [question on Quora](https://www.quora.com/How-can-I-print-1-to-100-in-C++-without-a-loop-goto-or-recursion), "How can I print 1 to 100 in C++ without a loop, goto or recursion?". I saw a lot of good answers, but the unspoken truth was "you don't".
